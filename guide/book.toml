@@ -1,6 +1,0 @@
-[book]
-title = "TrackYourSleep"
-
-[output.html]
-edit-url-template = ""
-additional-js = ["matomo.js"]

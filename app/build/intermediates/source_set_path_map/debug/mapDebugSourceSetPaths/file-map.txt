@@ -1,0 +1,53 @@
+com.example.TrackYourSleep.app-jetified-fastadapter-4.1.2-0 /Users/roshanthapa/.gradle/caches/8.9/transforms/022c41911200cc1e937a25f0be0d43a2/transformed/jetified-fastadapter-4.1.2/res
+com.example.TrackYourSleep.app-sqlite-framework-2.4.0-1 /Users/roshanthapa/.gradle/caches/8.9/transforms/11ddb1e55ae9b16e7a030eb7f3dec826/transformed/sqlite-framework-2.4.0/res
+com.example.TrackYourSleep.app-jetified-lifecycle-runtime-release-2 /Users/roshanthapa/.gradle/caches/8.9/transforms/11eb26c2e4b165cc42d5042450020b74/transformed/jetified-lifecycle-runtime-release/res
+com.example.TrackYourSleep.app-constraintlayout-2.2.0-3 /Users/roshanthapa/.gradle/caches/8.9/transforms/13dcb6d6f7e545e991b6ec1e03a74625/transformed/constraintlayout-2.2.0/res
+com.example.TrackYourSleep.app-appcompat-1.7.0-4 /Users/roshanthapa/.gradle/caches/8.9/transforms/18441908028a01d00d05f7c5f956771d/transformed/appcompat-1.7.0/res
+com.example.TrackYourSleep.app-drawerlayout-1.1.1-5 /Users/roshanthapa/.gradle/caches/8.9/transforms/1ab5059f573ee9b6265f9925e0db32ff/transformed/drawerlayout-1.1.1/res
+com.example.TrackYourSleep.app-jetified-lifecycle-process-2.8.7-6 /Users/roshanthapa/.gradle/caches/8.9/transforms/23c94661974306fbe62c874a81694831/transformed/jetified-lifecycle-process-2.8.7/res
+com.example.TrackYourSleep.app-jetified-viewpager2-1.0.0-7 /Users/roshanthapa/.gradle/caches/8.9/transforms/29e3d887bf03b036bc56a359322631a2/transformed/jetified-viewpager2-1.0.0/res
+com.example.TrackYourSleep.app-slidingpanelayout-1.2.0-8 /Users/roshanthapa/.gradle/caches/8.9/transforms/2be007b4d8e93e4fb0fcd8fd109d1ada/transformed/slidingpanelayout-1.2.0/res
+com.example.TrackYourSleep.app-jetified-lifecycle-viewmodel-ktx-2.8.7-9 /Users/roshanthapa/.gradle/caches/8.9/transforms/2d56aa4ae6b6de87d3643bbc88e0c784/transformed/jetified-lifecycle-viewmodel-ktx-2.8.7/res
+com.example.TrackYourSleep.app-jetified-fragment-ktx-1.8.5-10 /Users/roshanthapa/.gradle/caches/8.9/transforms/33b57530d5648f1bc44796c3d6590831/transformed/jetified-fragment-ktx-1.8.5/res
+com.example.TrackYourSleep.app-jetified-savedstate-1.2.1-11 /Users/roshanthapa/.gradle/caches/8.9/transforms/3bb508a36bd9527c42c805af40f18fcf/transformed/jetified-savedstate-1.2.1/res
+com.example.TrackYourSleep.app-jetified-emoji2-1.3.0-12 /Users/roshanthapa/.gradle/caches/8.9/transforms/3d87d2ed8309132272ed7fa7df046798/transformed/jetified-emoji2-1.3.0/res
+com.example.TrackYourSleep.app-jetified-activity-1.10.0-13 /Users/roshanthapa/.gradle/caches/8.9/transforms/3db5bb3bc482e481bf72bee4115c6c55/transformed/jetified-activity-1.10.0/res
+com.example.TrackYourSleep.app-room-runtime-2.6.1-14 /Users/roshanthapa/.gradle/caches/8.9/transforms/3f1af6e960b960999b08c52f40e3edce/transformed/room-runtime-2.6.1/res
+com.example.TrackYourSleep.app-jetified-lifecycle-runtime-ktx-release-15 /Users/roshanthapa/.gradle/caches/8.9/transforms/47651a46a5bb5ccec642f1dfd867cf72/transformed/jetified-lifecycle-runtime-ktx-release/res
+com.example.TrackYourSleep.app-jetified-tracing-1.2.0-16 /Users/roshanthapa/.gradle/caches/8.9/transforms/48678e4c245f1610d0a24e1d08cdb636/transformed/jetified-tracing-1.2.0/res
+com.example.TrackYourSleep.app-fragment-1.8.5-17 /Users/roshanthapa/.gradle/caches/8.9/transforms/547e9ab490aed135b472549765a35b9d/transformed/fragment-1.8.5/res
+com.example.TrackYourSleep.app-jetified-appcompat-resources-1.7.0-18 /Users/roshanthapa/.gradle/caches/8.9/transforms/6128d0b6567f604d6f71e7fbc73556da/transformed/jetified-appcompat-resources-1.7.0/res
+com.example.TrackYourSleep.app-material-1.12.0-19 /Users/roshanthapa/.gradle/caches/8.9/transforms/6803ec65410c924d9188bd04745f1dd8/transformed/material-1.12.0/res
+com.example.TrackYourSleep.app-jetified-iconics-core-4.0.2-20 /Users/roshanthapa/.gradle/caches/8.9/transforms/6993280b2e097d374f4b0dd93273ceb1/transformed/jetified-iconics-core-4.0.2/res
+com.example.TrackYourSleep.app-jetified-core-ktx-1.15.0-21 /Users/roshanthapa/.gradle/caches/8.9/transforms/79b878c213aa48b2a44ed5f532fa74f7/transformed/jetified-core-ktx-1.15.0/res
+com.example.TrackYourSleep.app-lifecycle-livedata-2.8.7-22 /Users/roshanthapa/.gradle/caches/8.9/transforms/80dfee550c6e3aa57f263737f764319b/transformed/lifecycle-livedata-2.8.7/res
+com.example.TrackYourSleep.app-jetified-lifecycle-viewmodel-savedstate-2.8.7-23 /Users/roshanthapa/.gradle/caches/8.9/transforms/8499356fffe3dd5b84ca806bfd30401c/transformed/jetified-lifecycle-viewmodel-savedstate-2.8.7/res
+com.example.TrackYourSleep.app-preference-1.2.1-24 /Users/roshanthapa/.gradle/caches/8.9/transforms/8bff355470f5daf1421c397126bc3b7c/transformed/preference-1.2.1/res
+com.example.TrackYourSleep.app-sqlite-2.4.0-25 /Users/roshanthapa/.gradle/caches/8.9/transforms/90f74d617d60d24a743c6b0e3d5f397d/transformed/sqlite-2.4.0/res
+com.example.TrackYourSleep.app-jetified-aboutlibraries-core-7.1.0-26 /Users/roshanthapa/.gradle/caches/8.9/transforms/90fbd5cff476475c66f25ac59185c7de/transformed/jetified-aboutlibraries-core-7.1.0/res
+com.example.TrackYourSleep.app-jetified-preference-ktx-1.2.1-27 /Users/roshanthapa/.gradle/caches/8.9/transforms/91accdfe947d4f6a2630c34f116a8504/transformed/jetified-preference-ktx-1.2.1/res
+com.example.TrackYourSleep.app-jetified-profileinstaller-1.4.0-28 /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/res
+com.example.TrackYourSleep.app-core-1.15.0-29 /Users/roshanthapa/.gradle/caches/8.9/transforms/9c13263458548204ae76ba9589852e88/transformed/core-1.15.0/res
+com.example.TrackYourSleep.app-jetified-annotation-experimental-1.4.1-30 /Users/roshanthapa/.gradle/caches/8.9/transforms/9f65a66db2563621b6e6996ae45489bb/transformed/jetified-annotation-experimental-1.4.1/res
+com.example.TrackYourSleep.app-jetified-lifecycle-viewmodel-release-31 /Users/roshanthapa/.gradle/caches/8.9/transforms/a71083d98f2b8b89ad6aa785e59db407/transformed/jetified-lifecycle-viewmodel-release/res
+com.example.TrackYourSleep.app-jetified-lifecycle-livedata-core-ktx-2.8.7-32 /Users/roshanthapa/.gradle/caches/8.9/transforms/a8ca066b11e1ba15e89b44814812e4fa/transformed/jetified-lifecycle-livedata-core-ktx-2.8.7/res
+com.example.TrackYourSleep.app-core-runtime-2.2.0-33 /Users/roshanthapa/.gradle/caches/8.9/transforms/ab498ce7ac0e76238a0d6627e4ec4243/transformed/core-runtime-2.2.0/res
+com.example.TrackYourSleep.app-coordinatorlayout-1.1.0-34 /Users/roshanthapa/.gradle/caches/8.9/transforms/ad3817f7690c8db95c0414fb50f9a6b7/transformed/coordinatorlayout-1.1.0/res
+com.example.TrackYourSleep.app-jetified-startup-runtime-1.1.1-35 /Users/roshanthapa/.gradle/caches/8.9/transforms/b62cea6f306235f646672c499dc4fe8e/transformed/jetified-startup-runtime-1.1.1/res
+com.example.TrackYourSleep.app-jetified-activity-ktx-1.10.0-36 /Users/roshanthapa/.gradle/caches/8.9/transforms/babdc08fdcae53dd0108fff84c068914/transformed/jetified-activity-ktx-1.10.0/res
+com.example.TrackYourSleep.app-jetified-emoji2-views-helper-1.3.0-37 /Users/roshanthapa/.gradle/caches/8.9/transforms/bac678c3d7c96c9070394890efbf4f03/transformed/jetified-emoji2-views-helper-1.3.0/res
+com.example.TrackYourSleep.app-jetified-aboutlibraries-7.1.0-38 /Users/roshanthapa/.gradle/caches/8.9/transforms/d1754dc9865a565a2918f1ccd852c604/transformed/jetified-aboutlibraries-7.1.0/res
+com.example.TrackYourSleep.app-jetified-room-ktx-2.6.1-39 /Users/roshanthapa/.gradle/caches/8.9/transforms/d4bd079a9b030d32f20e724db2b3aa6a/transformed/jetified-room-ktx-2.6.1/res
+com.example.TrackYourSleep.app-jetified-window-1.0.0-40 /Users/roshanthapa/.gradle/caches/8.9/transforms/d9e78f80c76dff8d99a31c60c67ba9ba/transformed/jetified-window-1.0.0/res
+com.example.TrackYourSleep.app-jetified-savedstate-ktx-1.2.1-41 /Users/roshanthapa/.gradle/caches/8.9/transforms/da4723036e793c670aca29f8002e852d/transformed/jetified-savedstate-ktx-1.2.1/res
+com.example.TrackYourSleep.app-lifecycle-livedata-core-2.8.7-42 /Users/roshanthapa/.gradle/caches/8.9/transforms/e7ec1f12d7a28cda75f30dc89297fef3/transformed/lifecycle-livedata-core-2.8.7/res
+com.example.TrackYourSleep.app-transition-1.5.0-43 /Users/roshanthapa/.gradle/caches/8.9/transforms/e8d3d128bb5fea09f4c668fb34f6e8f0/transformed/transition-1.5.0/res
+com.example.TrackYourSleep.app-recyclerview-1.1.0-44 /Users/roshanthapa/.gradle/caches/8.9/transforms/f451564ae142d51be0e18d292ffc3ee9/transformed/recyclerview-1.1.0/res
+com.example.TrackYourSleep.app-cardview-1.0.0-45 /Users/roshanthapa/.gradle/caches/8.9/transforms/f496801476ca948232c0231c90afb4f4/transformed/cardview-1.0.0/res
+com.example.TrackYourSleep.app-pngs-46 /Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/build/generated/res/pngs/debug
+com.example.TrackYourSleep.app-resValues-47 /Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/build/generated/res/resValues/debug
+com.example.TrackYourSleep.app-mergeDebugResources-48 /Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.TrackYourSleep.app-mergeDebugResources-49 /Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.TrackYourSleep.app-debug-50 /Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.TrackYourSleep.app-debug-51 /Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/debug/res
+com.example.TrackYourSleep.app-main-52 /Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/res

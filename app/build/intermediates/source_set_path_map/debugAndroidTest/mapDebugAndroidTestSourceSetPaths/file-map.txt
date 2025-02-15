@@ -1,0 +1,7 @@
+com.example.TrackYourSleep.test.app-jetified-tracing-1.2.0-0 /Users/roshanthapa/.gradle/caches/8.9/transforms/48678e4c245f1610d0a24e1d08cdb636/transformed/jetified-tracing-1.2.0/res
+com.example.TrackYourSleep.test.app-uiautomator-2.3.0-1 /Users/roshanthapa/.gradle/caches/8.9/transforms/a24e2bb759f3788edfdfed7b021bb083/transformed/uiautomator-2.3.0/res
+com.example.TrackYourSleep.test.app-jetified-core-1.6.1-2 /Users/roshanthapa/.gradle/caches/8.9/transforms/b9ed71b3cfa6ebbb1a88438a1b878b70/transformed/jetified-core-1.6.1/res
+com.example.TrackYourSleep.test.app-androidTest-3 /Users/roshanthapa/Desktop/CalculatorApp/TrackYourSleep/app/build/generated/res/resValues/androidTest/debug
+com.example.TrackYourSleep.test.app-mergeDebugAndroidTestResources-4 /Users/roshanthapa/Desktop/CalculatorApp/TrackYourSleep/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.TrackYourSleep.test.app-mergeDebugAndroidTestResources-5 /Users/roshanthapa/Desktop/CalculatorApp/TrackYourSleep/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.TrackYourSleep.test.app-debugAndroidTest-6 /Users/roshanthapa/Desktop/CalculatorApp/TrackYourSleep/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

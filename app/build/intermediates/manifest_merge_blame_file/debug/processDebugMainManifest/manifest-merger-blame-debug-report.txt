@@ -1,0 +1,277 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.TrackYourSleep.TrackYourSleep"
+4    android:versionCode="61"
+5    android:versionName="25.2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+11-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:4:5-77
+11-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:4:22-74
+12    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE" />
+12-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:5:5-89
+12-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:5:22-86
+13    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+13-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:6:5-77
+13-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:6:22-74
+14    <uses-permission android:name="android.permission.READ_CALENDAR" />
+14-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:7:5-72
+14-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:7:22-69
+15    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+15-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:8:5-73
+15-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:8:22-70
+16    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+16-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:9:5-85
+16-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:9:22-82
+17
+18    <permission
+18-->[androidx.core:core:1.15.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9c13263458548204ae76ba9589852e88/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+19        android:name="com.example.TrackYourSleep.TrackYourSleep.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+19-->[androidx.core:core:1.15.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9c13263458548204ae76ba9589852e88/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+20        android:protectionLevel="signature" />
+20-->[androidx.core:core:1.15.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9c13263458548204ae76ba9589852e88/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+21
+22    <uses-permission android:name="com.example.TrackYourSleep.TrackYourSleep.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+22-->[androidx.core:core:1.15.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9c13263458548204ae76ba9589852e88/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+22-->[androidx.core:core:1.15.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9c13263458548204ae76ba9589852e88/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+23
+24    <application
+24-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:11:5-73:19
+25        android:allowBackup="true"
+25-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:12:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.15.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9c13263458548204ae76ba9589852e88/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
+27        android:debuggable="true"
+28        android:extractNativeLibs="false"
+29        android:icon="@mipmap/ic_launcher"
+29-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:13:9-43
+30        android:label="@string/app_name"
+30-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:14:9-41
+31        android:roundIcon="@mipmap/ic_launcher"
+31-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:15:9-48
+32        android:supportsRtl="true"
+32-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:16:9-35
+33        android:testOnly="true"
+34        android:theme="@style/AppTheme" >
+34-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:17:9-40
+35        <activity
+35-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:18:9-26:20
+36            android:name="com.example.TrackYourSleep.MainActivity"
+36-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:18:19-47
+37            android:exported="true"
+37-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:19:13-36
+38            android:launchMode="singleTop" >
+38-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:20:13-43
+39            <intent-filter>
+39-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:21:13-25:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:22:17-69
+40-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:22:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:24:17-77
+42-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:24:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity android:name="com.example.TrackYourSleep.SleepActivity" >
+45-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:27:9-31:20
+45-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:27:19-48
+46            <meta-data
+46-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:28:13-30:49
+47                android:name="android.support.PARENT_ACTIVITY"
+47-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:29:17-63
+48                android:value=".MainActivity" />
+48-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:30:17-46
+49        </activity>
+50        <activity android:name="com.example.TrackYourSleep.StatsActivity" >
+50-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:32:9-36:20
+50-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:32:19-48
+51            <meta-data
+51-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:28:13-30:49
+52                android:name="android.support.PARENT_ACTIVITY"
+52-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:29:17-63
+53                android:value=".MainActivity" />
+53-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:30:17-46
+54        </activity>
+55        <activity android:name="com.example.TrackYourSleep.GraphsActivity" >
+55-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:37:9-41:20
+55-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:37:19-49
+56            <meta-data
+56-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:28:13-30:49
+57                android:name="android.support.PARENT_ACTIVITY"
+57-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:29:17-63
+58                android:value=".MainActivity" />
+58-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:30:17-46
+59        </activity>
+60        <activity android:name="com.example.TrackYourSleep.PreferencesActivity" />
+60-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:42:9-57
+60-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:42:19-54
+61
+62        <service
+62-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:43:9-49:19
+63            android:name="com.example.TrackYourSleep.MainService"
+63-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:44:13-40
+64            android:foregroundServiceType="specialUse" >
+64-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:45:13-55
+65            <property
+65-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:46:13-48:87
+66                android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE"
+66-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:47:17-76
+67                android:value="Used to notify the user that tracking is in progress" />
+67-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:48:17-85
+68        </service>
+69        <service
+69-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:50:9-60:19
+70            android:name="com.example.TrackYourSleep.TileService"
+70-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:51:13-40
+71            android:exported="true"
+71-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:55:13-36
+72            android:icon="@drawable/ic_launcher_foreground"
+72-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:52:13-60
+73            android:label="@string/widget_start_stop"
+73-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:53:13-54
+74            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+74-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:54:13-77
+75            <intent-filter>
+75-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:56:13-59:29
+76                <action android:name="android.service.quicksettings.action.QS_TILE" />
+76-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:57:17-58:82
+76-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:58:21-80
+77            </intent-filter>
+78        </service>
+79
+80        <receiver
+80-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:61:9-72:20
+81            android:name="com.example.TrackYourSleep.ToggleWidget"
+81-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:64:13-41
+82            android:exported="true"
+82-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:65:13-36
+83            android:icon="@mipmap/ic_launcher"
+83-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:62:13-47
+84            android:label="@string/widget_start_stop" >
+84-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:63:13-54
+85            <intent-filter>
+85-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:66:13-68:29
+86                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+86-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:67:17-84
+86-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:67:25-81
+87            </intent-filter>
+88
+89            <meta-data
+89-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:69:13-71:62
+90                android:name="android.appwidget.provider"
+90-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:70:17-58
+91                android:resource="@xml/widget_info_toggle" />
+91-->/Users/roshanthapa/Desktop/6th Semester/AppDevelopment/TrackYourSleep/app/src/main/AndroidManifest.xml:71:17-59
+92        </receiver>
+93
+94        <activity android:name="com.mikepenz.aboutlibraries.ui.LibsActivity" />
+94-->[com.mikepenz:aboutlibraries:7.1.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/d1754dc9865a565a2918f1ccd852c604/transformed/jetified-aboutlibraries-7.1.0/AndroidManifest.xml:12:9-80
+94-->[com.mikepenz:aboutlibraries:7.1.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/d1754dc9865a565a2918f1ccd852c604/transformed/jetified-aboutlibraries-7.1.0/AndroidManifest.xml:12:19-77
+95
+96        <provider
+96-->[com.mikepenz:iconics-core:4.0.2] /Users/roshanthapa/.gradle/caches/8.9/transforms/6993280b2e097d374f4b0dd93273ceb1/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:27:9-32:39
+97            android:name="com.mikepenz.iconics.IconicsContentProvider"
+97-->[com.mikepenz:iconics-core:4.0.2] /Users/roshanthapa/.gradle/caches/8.9/transforms/6993280b2e097d374f4b0dd93273ceb1/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:28:13-71
+98            android:authorities="com.example.TrackYourSleep.TrackYourSleep.iconics.core.provider"
+98-->[com.mikepenz:iconics-core:4.0.2] /Users/roshanthapa/.gradle/caches/8.9/transforms/6993280b2e097d374f4b0dd93273ceb1/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:29:13-73
+99            android:enabled="@bool/is_iconics_content_provider_enabled"
+99-->[com.mikepenz:iconics-core:4.0.2] /Users/roshanthapa/.gradle/caches/8.9/transforms/6993280b2e097d374f4b0dd93273ceb1/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:30:13-72
+100            android:exported="false"
+100-->[com.mikepenz:iconics-core:4.0.2] /Users/roshanthapa/.gradle/caches/8.9/transforms/6993280b2e097d374f4b0dd93273ceb1/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:31:13-37
+101            android:initOrder="100" />
+101-->[com.mikepenz:iconics-core:4.0.2] /Users/roshanthapa/.gradle/caches/8.9/transforms/6993280b2e097d374f4b0dd93273ceb1/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:32:13-36
+102
+103        <service
+103-->[androidx.room:room-runtime:2.6.1] /Users/roshanthapa/.gradle/caches/8.9/transforms/3f1af6e960b960999b08c52f40e3edce/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+104            android:name="androidx.room.MultiInstanceInvalidationService"
+104-->[androidx.room:room-runtime:2.6.1] /Users/roshanthapa/.gradle/caches/8.9/transforms/3f1af6e960b960999b08c52f40e3edce/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+105            android:directBootAware="true"
+105-->[androidx.room:room-runtime:2.6.1] /Users/roshanthapa/.gradle/caches/8.9/transforms/3f1af6e960b960999b08c52f40e3edce/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+106            android:exported="false" />
+106-->[androidx.room:room-runtime:2.6.1] /Users/roshanthapa/.gradle/caches/8.9/transforms/3f1af6e960b960999b08c52f40e3edce/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+107
+108        <provider
+108-->[androidx.emoji2:emoji2:1.3.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/3d87d2ed8309132272ed7fa7df046798/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+109            android:name="androidx.startup.InitializationProvider"
+109-->[androidx.emoji2:emoji2:1.3.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/3d87d2ed8309132272ed7fa7df046798/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:25:13-67
+110            android:authorities="com.example.TrackYourSleep.TrackYourSleep.androidx-startup"
+110-->[androidx.emoji2:emoji2:1.3.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/3d87d2ed8309132272ed7fa7df046798/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:26:13-68
+111            android:exported="false" >
+111-->[androidx.emoji2:emoji2:1.3.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/3d87d2ed8309132272ed7fa7df046798/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:27:13-37
+112            <meta-data
+112-->[androidx.emoji2:emoji2:1.3.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/3d87d2ed8309132272ed7fa7df046798/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+113                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+113-->[androidx.emoji2:emoji2:1.3.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/3d87d2ed8309132272ed7fa7df046798/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:30:17-75
+114                android:value="androidx.startup" />
+114-->[androidx.emoji2:emoji2:1.3.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/3d87d2ed8309132272ed7fa7df046798/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:31:17-49
+115            <meta-data
+115-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/roshanthapa/.gradle/caches/8.9/transforms/23c94661974306fbe62c874a81694831/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
+116                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+116-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/roshanthapa/.gradle/caches/8.9/transforms/23c94661974306fbe62c874a81694831/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
+117                android:value="androidx.startup" />
+117-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/roshanthapa/.gradle/caches/8.9/transforms/23c94661974306fbe62c874a81694831/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
+118            <meta-data
+118-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+119                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+119-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+120                android:value="androidx.startup" />
+120-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+121        </provider>
+122
+123        <uses-library
+123-->[androidx.window:window:1.0.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/d9e78f80c76dff8d99a31c60c67ba9ba/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+124            android:name="androidx.window.extensions"
+124-->[androidx.window:window:1.0.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/d9e78f80c76dff8d99a31c60c67ba9ba/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+125            android:required="false" />
+125-->[androidx.window:window:1.0.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/d9e78f80c76dff8d99a31c60c67ba9ba/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+126        <uses-library
+126-->[androidx.window:window:1.0.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/d9e78f80c76dff8d99a31c60c67ba9ba/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+127            android:name="androidx.window.sidecar"
+127-->[androidx.window:window:1.0.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/d9e78f80c76dff8d99a31c60c67ba9ba/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+128            android:required="false" />
+128-->[androidx.window:window:1.0.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/d9e78f80c76dff8d99a31c60c67ba9ba/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+129
+130        <receiver
+130-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+131            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+131-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+132            android:directBootAware="false"
+132-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+133            android:enabled="true"
+133-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+134            android:exported="true"
+134-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+135            android:permission="android.permission.DUMP" >
+135-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+136            <intent-filter>
+136-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+137                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+137-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+137-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+138            </intent-filter>
+139            <intent-filter>
+139-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+140                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+140-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+140-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+141            </intent-filter>
+142            <intent-filter>
+142-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+143                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+143-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+143-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+144            </intent-filter>
+145            <intent-filter>
+145-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+146                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+146-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+146-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/roshanthapa/.gradle/caches/8.9/transforms/9742e88cbb06625c297b2c63fb53b80d/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+147            </intent-filter>
+148        </receiver>
+149    </application>
+150
+151</manifest>

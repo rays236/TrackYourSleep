@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.TrackYourSleep.app-mergeDebugResources-49:/layout/settings.xml",
+        "source": "com.example.TrackYourSleep.app-main-52:/layout/settings.xml"
+    },
+    {
+        "merged": "com.example.TrackYourSleep.app-mergeDebugResources-49:/layout/layout_sleep_item.xml",
+        "source": "com.example.TrackYourSleep.app-main-52:/layout/layout_sleep_item.xml"
+    },
+    {
+        "merged": "com.example.TrackYourSleep.app-mergeDebugResources-49:/layout/activity_graphs.xml",
+        "source": "com.example.TrackYourSleep.app-main-52:/layout/activity_graphs.xml"
+    },
+    {
+        "merged": "com.example.TrackYourSleep.app-mergeDebugResources-49:/layout/fragment_stats.xml",
+        "source": "com.example.TrackYourSleep.app-main-52:/layout/fragment_stats.xml"
+    },
+    {
+        "merged": "com.example.TrackYourSleep.app-mergeDebugResources-49:/layout/activity_sleep.xml",
+        "source": "com.example.TrackYourSleep.app-main-52:/layout/activity_sleep.xml"
+    },
+    {
+        "merged": "com.example.TrackYourSleep.app-mergeDebugResources-49:/layout/widget_layout_toggle.xml",
+        "source": "com.example.TrackYourSleep.app-main-52:/layout/widget_layout_toggle.xml"
+    },
+    {
+        "merged": "com.example.TrackYourSleep.app-mergeDebugResources-49:/layout/activity_stats.xml",
+        "source": "com.example.TrackYourSleep.app-main-52:/layout/activity_stats.xml"
+    },
+    {
+        "merged": "com.example.TrackYourSleep.app-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "com.example.TrackYourSleep.app-main-52:/layout/activity_main.xml"
+    }
+]

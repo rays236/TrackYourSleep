@@ -1,0 +1,71 @@
+plugins {
+    id 'com.google.devtools.ksp'
+}
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+
+android {
+    kotlinOptions {
+        kotlinOptions.allWarningsAsErrors = true
+    }
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.example.TrackYourSleep"
+        minSdkVersion 24
+        targetSdkVersion 35
+        versionCode 61
+        versionName "25.2"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        javaCompileOptions {
+            annotationProcessorOptions {
+                arguments = ["room.incremental": "true"]
+            }
+        }
+        applicationIdSuffix 'TrackYourSleep'
+    }
+
+    buildFeatures {
+        viewBinding true
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_21
+        targetCompatibility JavaVersion.VERSION_21
+    }
+    lint {
+        disable 'MissingTranslation'
+    }
+    namespace 'com.example.TrackYourSleep'
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.7.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.2.0'
+    implementation 'androidx.documentfile:documentfile:1.0.1'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test:core:1.6.1'
+    androidTestImplementation 'androidx.test.ext:junit:1.2.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.6.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-intents:3.6.1'
+    androidTestImplementation "androidx.test.uiautomator:uiautomator:2.3.0"
+    def room_version = "2.6.1"
+    implementation "androidx.room:room-runtime:$room_version"
+    ksp "androidx.room:room-compiler:$room_version"
+    implementation "androidx.room:room-ktx:$room_version"
+    implementation 'javax.annotation:jsr250-api:1.0'
+    implementation 'com.google.android.material:material:1.12.0'
+    implementation 'androidx.core:core-ktx:1.15.0'
+    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
+    implementation "com.mikepenz:aboutlibraries:7.1.0"
+    implementation 'androidx.preference:preference-ktx:1.2.1'
+    implementation "androidx.activity:activity-ktx:1.10.0"
+    implementation "androidx.fragment:fragment-ktx:1.8.5"
+    implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
+    implementation 'org.apache.commons:commons-csv:1.9.0'
+}
+repositories {
+    mavenCentral()
+    maven { url 'https://jitpack.io' }
+}
